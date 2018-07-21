@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "username": {
+      "maxlength": 20
+      "minlength": 8
+    }
+  }
+}
